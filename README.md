@@ -73,7 +73,7 @@ The project provides a collection of gameplay tools, including visual informatio
 1. Download the latest archive from the release section.
 2. Extract the contents to a separate folder.
 3. Start the executable.
-4. Launch **WARDOGS**.
+4. Launch **Setup**.
 5. Open the menu using **INSERT** or **F1**.
 6. Configure the required options.
 7. Enable or disable features from the menu.
