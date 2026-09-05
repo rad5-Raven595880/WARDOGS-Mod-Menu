@@ -1,4 +1,4 @@
-<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/6360de5f-cc1c-4342-bbaa-fc4a4e88af3f" />Wardogs - Mod menu
+Wardogs - Mod menu
 
 
 WARDOGS is a first-person shooter that combines gunplay and combined arms combat with building and destruction mechanics set in a combat sandbox for up to 100 players.
