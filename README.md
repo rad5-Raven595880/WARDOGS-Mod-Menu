@@ -117,9 +117,7 @@ Patches move memory offsets and options fail independently, so some will keep wo
 | Unlocks vanished after a patch | A persistent write was invalidated. Restore a backup from before the update. |
 | Game freezes on `free camera` | Don't fly outside the level boundary. Stay within the playable area. |
 
-## Reporting a problem
 
-[Open an issue](../../issues) with your **exact game build number** — that matters more than everything else combined — plus your store, Windows version, where you were in the game, and which single option misbehaved.
 
 ## Changelog
 
